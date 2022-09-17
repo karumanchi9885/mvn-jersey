@@ -1,0 +1,2 @@
+# mvn-jersey
+Maven Practice
